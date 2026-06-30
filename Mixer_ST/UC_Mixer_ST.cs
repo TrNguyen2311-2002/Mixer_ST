@@ -257,6 +257,9 @@ namespace Mixer_ST
 
       //Test
 
+
+      //Viet them
+
       BatchItem current = _buffer[0];
 
       _CurrentPoCode = current.PoCode;
