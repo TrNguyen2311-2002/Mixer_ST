@@ -255,6 +255,8 @@ namespace Mixer_ST
         return;
       }
 
+      //Test
+
       BatchItem current = _buffer[0];
 
       _CurrentPoCode = current.PoCode;
