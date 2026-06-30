@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\C#\Mixer_ST\Mixer_ST\bin\Debug\Mixer_ST.dll.config
+C:\Users\ADMIN\Documents\C#\Mixer_ST\Mixer_ST\bin\Debug\Mixer_ST.dll
+C:\Users\ADMIN\Documents\C#\Mixer_ST\Mixer_ST\bin\Debug\Mixer_ST.pdb
+C:\Users\ADMIN\Documents\C#\Mixer_ST\Mixer_ST\obj\Debug\Mixer_ST.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\C#\Mixer_ST\Mixer_ST\obj\Debug\Mixer_ST.Properties.Resources.resources
+C:\Users\ADMIN\Documents\C#\Mixer_ST\Mixer_ST\obj\Debug\Mixer_ST.UC_Mixer_ST.resources
+C:\Users\ADMIN\Documents\C#\Mixer_ST\Mixer_ST\obj\Debug\Mixer_ST.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\C#\Mixer_ST\Mixer_ST\obj\Debug\Mixer_ST.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\C#\Mixer_ST\Mixer_ST\obj\Debug\Mixer_ST.dll
+C:\Users\ADMIN\Documents\C#\Mixer_ST\Mixer_ST\obj\Debug\Mixer_ST.pdb
